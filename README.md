@@ -1,4 +1,4 @@
-# Distorted Visual Sequence Pattern Recognition using Deep Learning
+# 🔍 Distorted Visual Sequence Pattern Recognition using Deep Learning
 
 > A deep learning OCR system for recognizing heavily distorted alphanumeric text sequences from noisy grayscale images.
 
