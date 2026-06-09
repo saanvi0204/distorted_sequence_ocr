@@ -1,4 +1,4 @@
-# Distorted OCR
+# Distorted Visual Sequence Pattern Recognition using Deep Learning
 
 > A deep learning OCR system for recognizing heavily distorted alphanumeric text sequences from noisy grayscale images.
 
@@ -127,7 +127,7 @@ distorted-ocr/
 The easiest way to reproduce the project is to run:
 
 ```text
-notebook/ocr-model-improved.ipynb
+notebook/ocr_model.ipynb
 ```
 
 ### Running on Kaggle
